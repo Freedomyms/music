@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_zero">0dp</dimen>
+    <dimen name="dp_one">1dp</dimen>
+    <dimen name="dp_two">2dp</dimen>
+    <dimen name="dp_three">3dp</dimen>
+    <dimen name="dp_four">4dp</dimen>
+    <dimen name="dp_five">5dp</dimen>
+    <dimen name="dp_six">6dp</dimen>
+    <dimen name="dp_eight">8dp</dimen>
+    <dimen name="dp_ten">10dp</dimen>
+    <dimen name="dp_twelve">12dp</dimen>
+    <dimen name="dp_fifteen">15dp</dimen>
+    <dimen name="dp_sixteen">16dp</dimen>
+    <dimen name="dp_twenty">20dp</dimen>
+    <dimen name="dp_twentyFour">24dp</dimen>
+    <dimen name="dp_twentyFive">25dp</dimen>
+    <dimen name="dp_thirty">30dp</dimen>
+    <dimen name="dp_thirtyTwo">32dp</dimen>
+    <dimen name="dp_thirtyFive">35dp</dimen>
+    <dimen name="dp_forty">40dp</dimen>
+    <dimen name="dp_fortyFive">45dp</dimen>
+    <dimen name="dp_fortyEight">48dp</dimen>
+    <dimen name="dp_fifty">50dp</dimen>
+    <dimen name="dp_fiftySix">56dp</dimen>
+    <dimen name="dp_sixty">60dp</dimen>
+    <dimen name="dp_sixtyFour">64dp</dimen>
+    <dimen name="dp_sixtyEight">68dp</dimen>
+    <dimen name="dp_seventy">70dp</dimen>
+    <dimen name="dp_seventyTwo">72dp</dimen>
+    <dimen name="dp_eighty">80dp</dimen>
+    <dimen name="dp_eightyEight">88dp</dimen>
+    <dimen name="dp_ninetySix">96dp</dimen>
+    <dimen name="dp_oneHundred">100dp</dimen>
+    <dimen name="dp_oneHundredAndTwenty">120dp</dimen>
+    <dimen name="dp_oneHundredAndThirty">130dp</dimen>
+    <dimen name="dp_oneHundredAndFifty">150dp</dimen>
+    <dimen name="dp_oneHundredAndSixty">160dp</dimen>
+    <dimen name="dp_oneHundredAndEighty">180dp</dimen>
+    <dimen name="dp_twoHundred">200dp</dimen>
+    <dimen name="dp_twoHundredAndFifty">250dp</dimen>
+    <dimen name="dp_twoHundredAndSeventy">270dp</dimen>
+    <dimen name="dp_fourHundred">400dp</dimen>
+
+    <dimen name="sp_ten">10sp</dimen>
+    <dimen name="sp_twelve">12sp</dimen>
+    <dimen name="sp_fourteen">14sp</dimen>
+    <dimen name="sp_sixteen">16sp</dimen>
+    <dimen name="sp_eighteen">18sp</dimen>
+    <dimen name="sp_twenty_eight">28sp</dimen>
+    <dimen name="sp_thirty">30sp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="spacing_line">5dp</dimen>
+    <dimen name="sp_fifteen">15sp</dimen>
+
+</resources>
