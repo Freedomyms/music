@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         mTvShow = findViewById(R.id.tv_show);
-
+        mTvShow.setText("music");
 
     }
 
